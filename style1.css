@@ -1,0 +1,42 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: navy;
+   text-align: center; 
+   text-shadow: 2px 2px greenyellow;
+}
+
+p {
+    color: mediumorchid;
+    font-family: Verdana;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.center {
+    text-align: center;
+}
+
+table {
+    background-color: beige;
+    width: 100%;
+    outline-style: groove;
+    outline-width: thick;
+    outline-color: thistle;
+}
+
+th{
+    background-color: sandybrown;
+}
+
+td, th{
+    font-size: 20px;
+    border-style: solid;
+}  

@@ -1,0 +1,31 @@
+/* unvisited link */
+a:link{
+    color:lawngreen
+}
+
+    /*visited link*/
+    a:visited{
+        color: darkkhaki
+    }
+
+    /* selected link */
+    a:active{
+        color: salmon;
+    }
+     
+    /* mouse over link */
+    a:hover{
+        color: white;
+        background-color: black;
+        font-size: 30px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    /* mouse over paragraph */
+        p:hover{
+            background-color: wheat;
+        }
+
+    tr:hover{
+        background-color: azure;
+    }
